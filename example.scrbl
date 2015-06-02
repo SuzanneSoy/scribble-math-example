@@ -3,6 +3,8 @@
 @(require "math.rkt")
 @setup-math
 
+@title{Document title}
+
 @section{A section}
 
 In section @secref{sec:foo} we present, blah blah.
