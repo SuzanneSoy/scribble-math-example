@@ -1,0 +1,3 @@
+[submodule "bracket"]
+	path = bracket
+	url = https://github.com/soegaard/bracket
